@@ -2,23 +2,58 @@
   "products": [
     {
       "name": "Caneta BIC PRETA",
-      "price": 5.5,
+      "price": "10",
       "id": 1
     },
     {
-      "id": 2,
-      "name": "MacBook Pro",
-      "price": 12000.89
+      "name": "Caneta BIC PRETA",
+      "price": 5.5,
+      "id": 7
     },
     {
-      "id": 3,
-      "name": "Samsung S20 FE",
-      "price": 2500
+      "name": "Caneta BIC PRETA",
+      "price": 5.5,
+      "id": 8
     },
     {
-      "name": "Caneta teste",
-      "price": 5.89,
-      "id": 4
+      "name": "Caneta BIC PRETA",
+      "price": 5.5,
+      "id": 9
+    },
+    {
+      "name": "Caneta BIC PRETA",
+      "price": 5.5,
+      "id": 10
+    },
+    {
+      "name": "Caneta BIC PRETA",
+      "price": 5.5,
+      "id": 11
+    },
+    {
+      "name": "Caneta BIC PRETA",
+      "price": 5.5,
+      "id": 12
+    },
+    {
+      "name": "Caneta BIC PRETA",
+      "price": 5.5,
+      "id": 13
+    },
+    {
+      "name": "Caneta BIC PRETA",
+      "price": 5.5,
+      "id": 14
+    },
+    {
+      "name": "Caneta BIC PRETA",
+      "price": 5.5,
+      "id": 16
+    },
+    {
+      "id": 17,
+      "name": "",
+      "price": 0
     }
   ]
 }
